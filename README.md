@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1811-fix-names-in-a-table) |
