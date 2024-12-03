@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2024-calculate-special-bonus) |
+## Array
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+## String
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
