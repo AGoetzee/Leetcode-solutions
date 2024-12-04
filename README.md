@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0595-big-countries](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1415-students-and-examinations) |
