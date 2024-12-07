@@ -31,6 +31,7 @@ You can find my profile on Leectode [here](https://leetcode.com/u/agoetzee/).
 | [1908-recyclable-and-low-fat-products](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2024-calculate-special-bonus) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
