@@ -34,6 +34,7 @@ You can find my profile on Leectode [here](https://leetcode.com/u/agoetzee/).
 ## Array
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
@@ -59,6 +60,7 @@ You can find my profile on Leectode [here](https://leetcode.com/u/agoetzee/).
 ## Binary Search
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AGoetzee/Leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AGoetzee/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
