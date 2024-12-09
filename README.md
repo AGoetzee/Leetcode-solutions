@@ -14,6 +14,7 @@ You can find my profile on Leectode [here](https://leetcode.com/u/agoetzee/).
 | [0184-department-highest-salary](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0262-trips-and-users) |
+| [0577-employee-bonus](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/AGoetzee/Leetcode-solutions/tree/master/0620-not-boring-movies) |
